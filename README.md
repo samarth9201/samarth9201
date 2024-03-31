@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://samarth9201.github.io" target="blank">
 Samarth</a></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth9201" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth9201" alt="samarth9201" /> </p>
 
 I am a second year Masters student in the Computer Science department at the [University of California - San Diego](https://ucsd.edu/). My experience spans across various fields within computer science. At present, I am primarily focused on Systems and Security. I have expertise in languages like Go, Java, C/C++, JavaScript, and Python. I have also worked on projects involving web development, distributed systems, robotics, and IoT, you can checkout my work [here](/projects/).
 
