@@ -10,7 +10,7 @@ Beyond academics, I genuinely enjoy the process of learning, whether it's pickin
 I thrive on connecting with new people, exchanging ideas, and collaborating. Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/samarthbhadane/) or by [Email](mailto:sbhadane@ucsd.edu) - I'm always eager to build my network. I'm currently seeking full-time software engineering roles and would love to learn about opportunities that align with my experience. If you come across an opening that fits my profile, I would appreciate you passing it along via email. I'm passionate about developing my skills and am excited to join a team where I can contribute meaningfully while continuing to grow.
 
 [![Samarth's GitHub stats](https://github-readme-stats-peach-nine-51.vercel.app/api?username=samarth9201&show_icons=true&include_all_commits=true&hide=contribs)](https://github.com/samarth9201/)
-[![Samarth's GitHub stats](https://github-profile-trophy.vercel.app/?username=samarth9201)](https://github.com/samarth9201/)
+[![Samarth's GitHub stats](https://github-profile-trophy.vercel.app/?username=samarth9201&rank=-C,-B)](https://github.com/samarth9201/)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
