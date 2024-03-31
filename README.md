@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm <a href="https://samarth9201.github.io" target="blank">
 Samarth</a></h1>
 
@@ -10,6 +8,8 @@ I am a second year Masters student in the Computer Science department at the [Un
 Beyond academics, I genuinely enjoy the process of learning, whether it's picking up a new tech, studying an academic topic, or even learning to play a new games. I find joy in expanding my knowledge and continuously challenging myself to grasp new concepts and skills. In my free time I love playing [Chess](https://www.chess.com/member/samarth9201) or Badminton.
 
 I thrive on connecting with new people, exchanging ideas, and collaborating. Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/samarthbhadane/) or by [Email](mailto:sbhadane@ucsd.edu) - I'm always eager to build my network. I'm currently seeking full-time software engineering roles and would love to learn about opportunities that align with my experience. If you come across an opening that fits my profile, I would appreciate you passing it along via email. I'm passionate about developing my skills and am excited to join a team where I can contribute meaningfully while continuing to grow.
+
+[![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth9201)](https://github.com/samarth9201/)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
