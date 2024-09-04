@@ -3,7 +3,7 @@ Samarth</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth9201" alt="samarth9201" /> </p>
 
-I am a second year Masters student in the Computer Science department at the [University of California - San Diego](https://ucsd.edu/). My experience spans across various fields within computer science. At present, I am primarily focused on Systems and Security. I have expertise in languages like Go, Java, C/C++, JavaScript, and Python. I have also worked on projects involving web development, distributed systems, robotics, and IoT, you can checkout my work [here](/projects/).
+I am a graduate from the [University of California - San Diego](https://ucsd.edu/) with a Master's in Computer Science. My experience spans across various fields within computer science. At present, I am primarily focused on Systems and Security. I have expertise in languages like Go, Java, C/C++, JavaScript, and Python. I have also worked on projects involving web development, distributed systems, robotics, and IoT, you can checkout my work [here](/projects/).
 
 Beyond academics, I genuinely enjoy the process of learning, whether it's picking up a new tech, studying an academic topic, or even learning to play a new games. I find joy in expanding my knowledge and continuously challenging myself to grasp new concepts and skills. In my free time I love playing [Chess](https://www.chess.com/member/samarth9201) or Badminton.
 
